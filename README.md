@@ -8,15 +8,16 @@ API Key Note
 You need to insert your API key. Go to a file named Constants.java and find the value of API_KEY. Replace "test" with "YOUR-API-KEY".
 
 public static final String API_KEY = "YOUR-API-KEY";
-Features
-Navigation Drawer
-Fragments
-ViewPager plus TabLayout
-Loaders
-Intent
-Guardian API
-JSON Parsing
-Glide
-CardView
-RecyclerView
-SharedPreferences
+
+Features :
+1. Navigation Drawer
+2. Fragments
+3. ViewPager plus TabLayout
+4. Loaders
+5. Intent
+7. Guardian API
+8. JSON Parsing
+9. Glide
+10. CardView
+11. RecyclerView
+12. SharedPreferences
